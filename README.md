@@ -1,1 +1,2 @@
 # say-Hi
+printP{"HIHI"};
